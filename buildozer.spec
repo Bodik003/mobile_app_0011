@@ -8,4 +8,4 @@ source.dir = .
 
 source.include_exts =
 
-version = 0.1
+version = 1.0
