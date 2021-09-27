@@ -1,7 +1,7 @@
 [app]
 title = Mobile App 002
 
-package.name = mobileapp001
+package.name = mobileapp002
 
 source.dir = .
 
