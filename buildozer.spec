@@ -1,4 +1,5 @@
 [app]
+
 title = Mobile App 002
 
 package.name = mobileapp002
