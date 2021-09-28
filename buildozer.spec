@@ -11,11 +11,8 @@ source.dir = .
 
 source.include_exts = 
 
-version = 0.2
+version = 0.3
 
-# (str) Supported orientation (one of landscape, sensorLandscape, portrait or all)
 orientation = all
 
-osx.kivy_version = 2.0.0
-
-fullscreen = 0
+osx.kivy_version = 1.9.1
