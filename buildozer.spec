@@ -13,8 +13,6 @@ source.include_exts =
 
 version = 0.2
 
-requirements = python3,kivy==2.0.0
-
 # (str) Supported orientation (one of landscape, sensorLandscape, portrait or all)
 orientation = all
 
