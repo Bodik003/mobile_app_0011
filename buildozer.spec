@@ -7,7 +7,7 @@ package.name = mobileapp002
 
 package.domain = org.wiseplat
 
-source.dir = main.py
+source.dir = .
 
 source.include_exts = 
 
