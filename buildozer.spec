@@ -11,7 +11,7 @@ source.dir = .
 
 source.include_exts = 
 
-version = 0.5
+version = 0.6
 
 orientation = all
 
