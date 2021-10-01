@@ -21,4 +21,4 @@ android.arch = armeabi-v7a
 
 android.permissions = INTERNET
 
-android.api = 18
+android.api = 26
