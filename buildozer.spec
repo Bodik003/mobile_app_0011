@@ -11,10 +11,14 @@ source.dir = .
 
 source.include_exts = 
 
-version = 0.6
+version = 0.7
 
 orientation = all
 
 osx.kivy_version = 2.0.0
 
 android.arch = armeabi-v7a
+
+android.permissions = INTERNET
+
+android.api = 18
