@@ -15,6 +15,6 @@ version = 0.9
 
 orientation = all
 
-requirements = python3,kivy==2.0.0
+kivy==2.0.0
 
 
