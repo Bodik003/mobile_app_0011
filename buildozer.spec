@@ -17,8 +17,4 @@ orientation = all
 
 osx.kivy_version = 2.0.0
 
-android.arch = armeabi-v7a
-
-android.permissions = INTERNET
-
-android.api = 26
+android.entrypoint = org.renpy.android.PythonActivity
