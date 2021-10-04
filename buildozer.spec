@@ -5,7 +5,7 @@ title = Mobile App 002
 
 package.name = mobileapp002
 
-package.domain = 
+package.domain = org.wiseplat
 
 source.dir = .
 
@@ -15,6 +15,6 @@ version = 0.9
 
 orientation = all
 
-osx.kivy_version = 2.0.0
+requirements = python3,kivy==2.0.0
 
 
