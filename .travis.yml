@@ -1,5 +1,10 @@
 os: linux
 dist: focal
+group: edge
+arch: arm64-graviton2
+compiler: clang
+script:
+  - clang --version
 language: python
 
 python:
