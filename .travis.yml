@@ -34,7 +34,7 @@ install:
   - ls bin/ -l
   - echo "TODO"
   - gem install dpl --pre
-  - dpl releases --token $GITHUB_TOKEN --file "bin/mobileapp002-1.0-armeabi-v7a-debug.apk" --tag_name "v.1.0"
+  - dpl releases --token $GITHUB_TOKEN --file "bin/mobileapp002-1.1-armeabi-v7a-debug.apk" --tag_name "v.1.1"
   - echo "TODO 2"
   
   
